@@ -9,6 +9,7 @@ function App() {
         
         
         <div style={{width:800}}>
+          <h2> ArcGIS Embed Demo </h2>
           <div class="embed-container">
             <iframe
             width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Front End Map MW" 
